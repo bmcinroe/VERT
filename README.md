@@ -1,5 +1,5 @@
 # VERT
-MATLAB implementation of VERT pipeline 
+MATLAB implementation of VERT pipeline (https://arxiv.org/abs/2410.02111).
 
 # Citation
 ```
